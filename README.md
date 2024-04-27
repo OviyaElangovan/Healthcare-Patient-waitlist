@@ -1,5 +1,5 @@
 # Healthcare-Patient-waitlist
-# Goal
+## Goal
 •	Track the current status of the patient waiting list
 •	Analyse the historical monthly trend of waiting list Inpatient & Outpatient categories
 •	Detailed specialty level & age profile analysis
